@@ -6,8 +6,6 @@
 
 This will be a project to learn and make a personal chess engine. Probably won't be a product.
 
-<br>
-
 ---
 
 ## The goal 
